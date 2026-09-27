@@ -7,7 +7,7 @@ Aplicativo em português para encontrar negócios locais sem site cadastrado no 
 1. Abra **Settings → Pages** neste repositório.
 2. Em **Build and deployment**, selecione **Deploy from a branch**.
 3. Escolha a branch `main`, pasta `/(root)` e clique em **Save**.
-4. O site ficará em `https://andersonx553-beep.github.io/Sorteio.fut/`.
+4. O site ficará em `https://andersonx553-beep.github.io/orbita.prospec/`.
 
 ## Chave Geoapify
 
